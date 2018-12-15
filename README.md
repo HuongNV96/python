@@ -1,3 +1,2 @@
 # python
-AI python
-BKAV Company
+AI python - BKAV Company
